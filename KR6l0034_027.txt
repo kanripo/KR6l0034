@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:13.684385
+#+DATE: 2015-08-30 20:52:22.691595
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6l0034_T_027-0403b> 
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 俱舍論記卷第二十七¶
+俱舍論記卷第二十七二十七¶
 ¶
 沙門釋光述¶
 
-:PROPERTIES:
-:head: 分別智品第七之二
-:END:
-¶
+分別智品第七之二¶
 
 如是已辨至今當顯示者。此下當品大文第¶
 二明智所成德。就中。一結前生起。二別明¶
