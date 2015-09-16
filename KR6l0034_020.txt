@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:13.314588
+#+DATE: 2015-08-30 20:52:20.061422
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6l0034_T_020-0309b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 20
 ¶
 ¶
-
- 俱舍論記卷第二十¶
+俱舍論記卷第二十¶
 ¶
 沙門釋光述¶
 
-:PROPERTIES:
-:head: 分別隨眠品第五之二
-:END:
-¶
+分別隨眠品第五之二¶
 
 諸有情類至能繫何事者。此下第六明惑能¶
 繫。就中。一約世明繫。二約斷明繫　就¶
@@ -603,7 +599,7 @@
 若事離繫至而非離繫¶
 者。答。若事離繫彼必已斷。有事已斷而非
 <pb:KR6l0034_T_020-0314c>¶
-離繫　已斷。據已斷彼　離繫。據離繫¶
+離繫　已斷。據性不成　離繫。據離繫¶
 縛。
 
 斷非離繫其事云何者。問。離繫必¶
@@ -1050,7 +1046,7 @@
 
 若善釋者至說名為取者。述經¶
 部解。¶
-俱舍論記卷第二十¶
+俱舍論記第二十¶
 
 一挍了
 <pb:KR6l0034_T_020-0318c>¶
