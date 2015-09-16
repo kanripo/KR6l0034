@@ -1,24 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:13.105443
+#+DATE: 2015-08-30 20:52:15.256249
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6l0034_T_016-0250c> 
 #+PROPERTY: JUAN 16
 ¶
-
- 俱舍論記卷第十六¶
+俱舍論記卷第十六¶
 ¶
 沙門釋光述¶
 
-:PROPERTIES:
-:head: 分別業品第四之四
-:END:
-¶
+分別業品第四之四¶
 
 又經中說至其相云何者。此下第七明黑黑¶
 等。就中。一明四業名體。二明無漏斷別。三¶
@@ -1514,17 +1510,13 @@
 俱舍論記卷第十六¶
 
 保延元年六月二十三日於田原里大道¶
-寺點了¶
-
-權少僧都覺樹¶
-
+寺點了
+權少僧都覺樹
 今年飢饉古來未有(云云)餓死之倫道¶
 路難去可悲哉末世為之如何予獨甞¶
 法味之間續惠命而法身肥了可咲可¶
-咲。¶
-
-（別筆）¶
-
+咲。
+（別筆）
 天養二年二月二十四日辰時於石山¶
 寺一見了因果之道深悟了¶
 
