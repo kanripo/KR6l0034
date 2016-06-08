@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:15.543238
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_022-0332c> 
 #+PROPERTY: JUAN 22
 ¶
@@ -14,7 +14,7 @@
 ¶
 沙門釋光述¶
 
-分別賢聖品第六之一¶
+* 分別賢聖品第六之一¶
 
 分別賢聖品者。賢謂賢和。聖謂聖正。此品廣¶
 明賢聖故名分別賢聖品。所以次明賢聖¶
@@ -1156,7 +1156,7 @@
 轉者彼應流動。問何故頞部曇．閉尸．鍵南¶
 諸根未滿未熟位息不轉耶。答彼身爾時¶
 風道未通。毛孔未開。若息轉者身應散壞。¶
-然在卵[穀-禾+卵]及母胎中。從羯剌藍乃至諸根未¶
+然在卵㲉及母胎中。從羯剌藍乃至諸根未¶
 滿未熟。爾時未有息所依身。風道未通。¶
 毛孔未開。唯有息地麁心現前。雖有一事¶
 而闕三事故息不轉。准婆沙文故知鉢羅¶

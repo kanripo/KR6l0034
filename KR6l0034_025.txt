@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:15.690724
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_025-0371c> ¶¶
 #+PROPERTY: JUAN 25
 ¶
@@ -15,7 +15,7 @@
 ¶
 沙門釋光述¶
 
-分別賢聖品第六之四聖品第六之四¶
+* 分別賢〔聖〕－【原】聖品第六之四＋（論本第二十五）【原】四聖品第六之四¶
 
 如前所說至有差別不者。此下第五明六種¶
 種姓。就中。一明六阿羅漢。二明六姓先後。¶

@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:14.747112
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_006-0112b> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
@@ -15,7 +15,7 @@
 ¶
 沙門釋光述¶
 
-分別根品第二之四¶
+* 分別根品第二之四¶
 
 如是已說至說為因緣者。此下當品大文第¶
 三明因緣。就中。一結前問起。二正辨體性。¶

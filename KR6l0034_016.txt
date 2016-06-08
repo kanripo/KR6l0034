@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:15.256249
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_016-0250c> 
 #+PROPERTY: JUAN 16
 ¶
@@ -14,7 +14,7 @@
 ¶
 沙門釋光述¶
 
-分別業品第四之四¶
+* 分別業品第四之四¶
 
 又經中說至其相云何者。此下第七明黑黑¶
 等。就中。一明四業名體。二明無漏斷別。三¶

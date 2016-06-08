@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:14.810037
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_007-0133a> ¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
@@ -15,7 +15,7 @@
 ¶
 沙門釋光述¶
 
-分別根品第二之五¶
+* 分別根品第二之五¶
 
 廣說因已緣復云何者。此下大文第二辨緣。¶
 就中。一總明四緣義。二別解等無間。就¶

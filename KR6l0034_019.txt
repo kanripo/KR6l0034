@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:15.398857
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_019-0291a> 
 #+PROPERTY: JUAN 19
 ¶
@@ -14,7 +14,7 @@
 ¶
 沙門釋光述¶
 
-分別隨眠品第五之一¶
+* 分別隨眠品第五之一¶
 
 分別隨眠品者。隨逐有情名隨。行相微細¶
 名眠。如人睡眠行相難了。此品廣明故名¶

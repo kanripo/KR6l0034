@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:15.181425
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_015-0230a> 
 #+PROPERTY: JUAN 15
 ¶
@@ -14,7 +14,7 @@
 ¶
 沙門釋光述¶
 
-分別業品第四之三¶
+* 分別業品第四之三¶
 
 此別解脫至亦餘二不者。此下大文第五得¶
 三律儀別。就中一明得處同．異。二明有¶
@@ -794,7 +794,7 @@
 染衣餘沙門相故名沙門。非有戒體說名¶
 沙門　寄喻來說　如被燒材實非材木。¶
 似材木故假立材名　亦如剋木作鸚鵡¶
-[此/束]。實非彼[此/束]。似彼[此/朿]故。假立[此/朿]名　有¶
+[此/束]。實非彼[此/束]。似彼㭰故。假立㭰名　有¶
 水名池。涸池名池似彼池故以假立池名¶
 　生芽名種。敗種名種。似彼種故假立種¶
 名　周匝名輪。旋火名輪。似彼輪故假¶

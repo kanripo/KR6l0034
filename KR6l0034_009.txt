@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:14.900039
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_009-0160a> 
 #+PROPERTY: JUAN 9
 ¶
@@ -14,7 +14,7 @@
 ¶
 沙門釋光述¶
 
-分別世品第三之二¶
+* 分別世品第三之二¶
 
 當往何趣至形狀如何者。此下第三諸門分別。¶
 總有十一門。此即第一明其形狀問。隨往¶
@@ -63,7 +63,7 @@
 量。
 
 菩薩中有至四大洲等者。別顯菩¶
-薩中有量大　俱[月*互]數名。如下當知。¶
+薩中有量大　俱𦙁數名。如下當知。¶
 
 若爾何故至來入已右脇者。難。若如盛年何¶
 故母見白象。

@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:15.730929
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_026-0383b> ¶¶
 #+PROPERTY: JUAN 26
 ¶
@@ -15,7 +15,7 @@
 ¶
 沙門釋光述¶
 
-分別智品第七之一¶
+* 分別智品第七之一¶
 
 分別智品者。決斷重知故名為智。此品廣明¶
 故名分別。所以次明智品者。前品明果。此¶

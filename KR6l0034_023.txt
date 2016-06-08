@@ -1,20 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:15.588234
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_023-0343a> 
 #+PROPERTY: JUAN 23
 ¶
 俱舍論記卷第二十三¶
 ¶
-沙門釋光述光述¶
+沙門釋（普）＋光【乙】光述光述¶
 
-分別賢聖品第六之二二¶
+* 分別賢聖品第六之二＋（論本第二十三）【原】二二¶
 
 如是已說至治倒故唯四者。此下第三明四¶
 念住。就中。一明別相念住。二明總相念¶

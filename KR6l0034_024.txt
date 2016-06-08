@@ -1,21 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:15.642034
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6l0034_T_024-0357a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 24
 ¶
 ¶
-俱舍論記卷第二十四四¶
+俱舍論記卷第二十四＋（光記第十二之下）【甲】四四¶
 ¶
-沙門釋光述光述¶
+沙門釋（普）＋光【乙】光述光述¶
 
-分別賢聖品第六之三¶
+* 分別賢聖品第六之三¶
 
 已辨住果至一來向果者。此下第二明一來¶
 向．果。就此文中。一結前。二總生下。三別¶
