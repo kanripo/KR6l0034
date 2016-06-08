@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:13.733853
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
@@ -15,7 +15,8 @@
 ¶
 沙門釋光述¶
 
-8分別定品
+* 8分別定品
+** 1
 :PROPERTIES:
 :head: 分別定品第八之一
 :END:

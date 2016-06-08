@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:12.927084
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
@@ -15,7 +15,8 @@
 ¶
 沙門釋光述¶
 
-4分別業品
+* 4分別業品
+** 1
 :PROPERTIES:
 :head: 分別業品第四之一
 :END:
@@ -1899,7 +1900,7 @@
 「　願以書寫力
 　世世開惠眼¶
 　生生得利根
-　臨終生極樂
+　臨終生極樂」
 #+END_VERSE
-」¶
+¶
 

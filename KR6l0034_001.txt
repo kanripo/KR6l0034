@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:12.160132
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
@@ -16,7 +16,8 @@ No.1821[cf.No.1558]¶
 ¶
 沙門釋光述¶
 
-1分別界品
+* 1分別界品
+** 1
 :PROPERTIES:
 :head: 分別界品第一之一
 :END:
