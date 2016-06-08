@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:12.847698
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0034_T_011-0185b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
-
- 俱舍論記卷第十一¶
+俱舍論記卷第十一¶
 ¶
 沙門釋光述¶
 
-:PROPERTIES:
-:head: 分別世品第三之四
-:END:
-¶
+* 分別世品第三之四¶
 
 如是已說至今當說者。此下大文第二明器¶
 世間。就中。一明所居器。二明能居量。三明¶
@@ -144,7 +140,7 @@
 者飲已定能長養諸根．四大。增益種種殊勝¶
 善根。¶
 
-頌曰至邏剎娑居者。此即第四明四洲。就¶
+頌曰至邏剎婆居者。此即第四明四洲。就¶
 中。一明四洲。二明八中洲。印度國車前狹¶
 後闊。故引為喻。菩薩最後所依身。能持此¶
 定。及金剛座處能持此定。以無餘依身．及¶

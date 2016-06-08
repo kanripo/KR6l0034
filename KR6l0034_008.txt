@@ -1,25 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:12.675494
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0034_T_008-0148a> 
 #+PROPERTY: JUAN 8
 ¶
-
- 俱舍論記卷第八¶
+俱舍論記卷第八¶
 ¶
 沙門釋光述¶
 
-3分別世品
-:PROPERTIES:
-:head: 分別世品第三之一
-:END:
-¶
+* 分別世品第三之一¶
 
 分別世品者。世謂世間。可毀壞故。有對治¶
 故。此品廣明故名分別。所以次明世品者。¶
@@ -76,12 +71,12 @@
 炎熱。若內．若外。自身．他身。皆出猛火互相¶
 燒害。熱中極故名為極熱　又此論下文釋¶
 第八地獄云。受苦無間故名無間。無樂¶
-間苦故名無間　言四洲者。南贍部洲。或¶
+間苦故名無間　言四洲者。南贍部州。或¶
 從林立號。或以菓標名　東勝身洲身形¶
 勝故。或身勝贍部故名勝身。梵云毘提河¶
-　西牛貨洲以牛貨易故名牛貨。梵云瞿陀¶
-尼　北俱盧唐言勝處。於四洲中處最勝¶
-故。或云勝生。於四洲中生最勝故　餘文
+　西牛貨州以牛貨易故名牛貨。梵云瞿陀¶
+尼　北俱盧唐言勝處。於四州中處最勝¶
+故。或云勝生。於四州中生最勝故　餘文
 <pb:KR6l0034_T_008-0148c>¶
 可知。
 

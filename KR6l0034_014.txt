@@ -1,25 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:12.984949
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6l0034_T_014-0217a> ¶¶¶¶¶¶¶¶
+#+PROPERTY: WITNESS master
+#+PROPERTY: LASTPB <pb:KR6l0034_T_014-0217a> ¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 俱舍論記卷第十四¶
+俱舍論記卷第十四¶
 ¶
 沙門釋光述¶
 
-:PROPERTIES:
-:head: 分別業品第四之二
-:END:
-¶
+* 分別業品第四之二¶
 
 傍論已了至表無表相者。此下第三廣明表．¶
 無表。就中。一明三無表。二依三別解　此¶

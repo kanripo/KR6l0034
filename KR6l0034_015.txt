@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:13.040946
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:28
 #+TITLE: 俱舍論記
 #+PROPERTY: CBETA_ID T41n1821
 #+PROPERTY: ID KR6l0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 41, No. 1821
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6l0034_T_015-0230a> 
 #+PROPERTY: JUAN 15
 ¶
-
- 俱舍論記卷第十五¶
+俱舍論記卷第十五¶
 ¶
 沙門釋光述¶
 
-:PROPERTIES:
-:head: 分別業品第四之三
-:END:
-¶
+* 分別業品第四之三¶
 
 此別解脫至亦餘二不者。此下大文第五得¶
 三律儀別。就中一明得處同．異。二明有¶
@@ -2251,10 +2247,8 @@
 不能具述。¶
 俱舍論記卷第十五¶
 
-一校了¶
-
-保延元年六月十七日於大道寺點了¶
-
+一校了
+保延元年六月十七日於大道寺點了
 披此業品深思因果破戒之身惡業之¶
 報何為何為可悲可悲唯願大士必垂¶
 哀愍。　　　　　權少僧都覺樹記
